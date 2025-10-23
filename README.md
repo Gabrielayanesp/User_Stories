@@ -3,7 +3,6 @@
 
 **Autora:** María Gabriela Yanes  
 **Clan:** Ciénaga  
-**Zona:** Autor  
 
 ---
 
