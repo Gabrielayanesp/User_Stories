@@ -1,1 +1,5 @@
-com\minitienda\minitienda\MiniTienda.class
+com\minitienda\minitienda\service\InventarioService.class
+com\minitienda\minitienda\model\Product.class
+com\minitienda\minitienda\model\Alimento.class
+com\minitienda\minitienda\ui\MainApp.class
+com\minitienda\minitienda\model\Electrodomestico.class
